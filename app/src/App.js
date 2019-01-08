@@ -153,14 +153,14 @@ class App extends Component {
         <ul>
           <li>
             <span>Github URL:&nbsp;</span>
-            <a href="">
-              {" "}https://github.com/clane/
+            <a href="https://github.com/clane/React-routing-focus-top-due-to-navigation-change">
+              {" "}https://github.com/clane/React-routing-focus-top-due-to-navigation-change
             </a>
           </li>
           <li>
             <span>Hosting URL:&nbsp;</span>
-            <a href="http://chrislane.info/REACT/">
-              http://chrislane.info/REACT/{" "}
+            <a href="http://chrislane.info/REACT/React-routing-focus-top-due-to-navigation-change/">
+              http://chrislane.info/REACT/React-routing-focus-top-due-to-navigation-change/{" "}
             </a>
           </li>
         </ul>
